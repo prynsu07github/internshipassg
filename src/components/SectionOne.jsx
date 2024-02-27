@@ -7,12 +7,12 @@ const SectionOne = () => {
       <img src={awardImage} alt="award" className="award__img" />
       </div>
       <div className="right__component">
-        <h2 style={{marginBottom:"20px", fontSize:"1.2rem"}}>
+        <h2>
           C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the
           4th time.
         </h2>
         <div >
-          <ul style={{ listStyleType: "disc"}}>
+          <ul>
             <li>
               <p>
                 C.R.I.'s energy efficient products are well recognized by
@@ -32,8 +32,8 @@ const SectionOne = () => {
         </div>
         <img src={Image2} alt="Image2" style={{margin:"15px 0"}}/>
         <p>
-          Government of India has awarded the "National Energy Conservation
-          Award 2018". Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group
+          Government of India has awarded the <strong>"National Energy Conservation
+          Award 2018".</strong> Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group
           received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha &
           Shri. Raj Kumar Singh, Honorable Minister of State.
         </p>
