@@ -37,17 +37,8 @@
   grid-template-columns: 1fr 2fr;
 }
 
-h2{
-  font-size: 1.2rem;
-  margin-bottom: 20px;
-}
-
-ul{
-  list-style-type: disc;
-}
-
 p{
-  font-size: 18px;
+  font-size: 16px;
   line-height:1.2;
 }
 
@@ -116,7 +107,7 @@ ul li {list-style-type: disc;}
     height: auto;
   }
   p{
-    font-size: 15px;
+    font-size: 14px;
   }
   .footer{
     padding:2rem;

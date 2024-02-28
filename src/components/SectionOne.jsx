@@ -7,12 +7,12 @@ const SectionOne = () => {
       <img src={awardImage} alt="award" className="award__img" />
       </div>
       <div className="right__component">
-        <h2>
+        <p style={{fontWeight:"bold" , marginBottom:"15px"}}>
           C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the
           4th time.
-        </h2>
+        </p>
         <div >
-          <ul>
+        <ul style={{ listStyleType: 'disc', paddingLeft: '20px' }}>
             <li>
               <p>
                 C.R.I.'s energy efficient products are well recognized by

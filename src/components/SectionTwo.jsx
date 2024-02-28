@@ -16,15 +16,15 @@ const facilities = [
 const SectionTwo = () => {
   return (
     <div className="section__2">
-      <p>
+      <p >
         INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING
         IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE
         NATION.
       </p>
       <div className="products">
         <img src={Products} alt="products" />
-        <p style={{textAlign:"center" }}>
-        Valves - Pumps - Pipes - IoT Drives",Controllers - Wires",Cables -
+        <p style={{textAlign:"center", marginTop:"10px" }}>
+        Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables -
         Solar Systems - Motors
       </p>
       </div>
